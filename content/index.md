@@ -44,4 +44,4 @@ Y que me recuerde, en los días grises, por qué decidí no seguir el camino fá
 > _"La privacidad es el poder de revelarse al mundo… de forma selectiva."_  
 > — Eric Hughes, 1993
 
-**PD:** Si querés recorrer este jardín conmigo o colaborar, [escribime](app://obsidian.md/index.html) Ahora.
+**PD:** Si querés recorrer este jardín conmigo o colaborar, [escribime.](mailto:fernandoequintana@icloud.com)
