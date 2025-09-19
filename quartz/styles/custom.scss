@@ -3,5 +3,7 @@
 // put your custom CSS here!
 /* Evita que el título del sitio se corte en mobile */
 .site-title {
-  white-space: nowrap;
+  font-size: 1.2rem !important; /* ajustá este valor */
+  line-height: 1.2 !important;
+  white-space: nowrap !important; /* evita que se corte en dos líneas */
 }
