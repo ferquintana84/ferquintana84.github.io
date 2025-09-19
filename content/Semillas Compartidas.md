@@ -1,9 +1,9 @@
 ---
-title: "Semillas Compartidas**"
-description: 
+title: Semillas Compartidas
+description:
 draft: false
 tags:
-  - 
+  -
 ---
 Este jardín no está hecho para monólogos.
 
