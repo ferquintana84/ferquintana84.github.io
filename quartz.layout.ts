@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Sígueme en X": "https://x.com/AeolusNox369",
-      "Mi Primal": "https://primal.net/p/nprofile1qqsxetpddfy3txlxamesnx5ypw98jc0uuhtsqgn9z80lzdjm8tlyz5gw2y775",
     },
   }),
 }
