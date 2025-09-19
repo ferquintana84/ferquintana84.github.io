@@ -1,3 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Evita que el título del sitio se corte en mobile */
+.site-title {
+  white-space: nowrap;
+}
