@@ -22,7 +22,9 @@ Acá exploro tres fuerzas que dan forma a mi visión del mundo.
 [[La Filosofía que Pregunta|La filosofía que pregunta]], la que no adorna, sino que despierta preguntas sobre el sentido de lo que hacemos, como por qué creamos tecnologías que a veces nos alejan de nosotros mismos, y marca rumbos.
 Y [[La Vida Conectada a lo Natural|la vida conectada a lo natural]], donde la simplicidad y la autonomía nos enseñan a resistir el ruido de los sistemas que no elegimos.
 
+Mi nombre es **Fernando Emmanuel Quintana Agüero**. 
 No soy académico ni geek de laboratorio.
+
 Soy un integrador: lidero equipos, hablo el lenguaje de los datos y los algoritmos, pero busco ir más allá, hacia una [[Ni Optimismo ni Pesimismo en la IA, Sí Esperanza|IA y propósito]]. Porque creo que la tecnología, guiada por el propósito, puede transformar vidas. Mi formación en ingeniería y economía se forjó en la experiencia, no solo en el diploma. Hoy, ese recorrido se encuentra con la filosofía que estudio: no como adorno, sino como necesidad. Y junto a mi hijo Fran, que me enseña a mirar el mundo con ojos nuevos, construyo una vida más sustentable, literal y simbólicamente.
 
 No vengo a enseñar. Vengo a provocar pensamiento, a dejar [[Semillas Compartidas|semillas compartidas]], a documentar ideas y a explorar preguntas. No es el blog de un experto, sino el cuaderno de bitácora de un navegante.
