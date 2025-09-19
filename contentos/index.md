@@ -1,15 +1,6 @@
 ---
-title: 🌱 El Porqué de Este Jardín Digital
-description: Reflexiones sobre IA, propósito y el sentido de este jardín digital.
-longform:
-  format: scenes
-  title: Content
-  workflow: Default Workflow
-  sceneFolder: /
-  scenes:
-    - Test
-  sceneTemplate: templates/articulo.md
-  ignoredFiles: []
+title: "🌱 El Porqué de Este Jardín Digital"
+description: "Reflexiones sobre IA, propósito y el sentido de este jardín digital."
 ---
 Durante años construí sistemas de IA orientados a la eficiencia.  
 En un mundo que, a veces, olvida el alma humana en la vorágine de procesos.  
