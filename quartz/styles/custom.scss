@@ -1,9 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-/* Evita que el título del sitio se corte en mobile */
-.site-title {
-  font-size: 1.2rem !important; /* ajustá este valor */
-  line-height: 1.2 !important;
-  white-space: nowrap !important; /* evita que se corte en dos líneas */
+.page-title {
+  font-size: 1.2rem !important;   /* ajustá hasta que quede bien */
+  line-height: 1.2 !important;    /* mejora el encaje vertical */
+  white-space: nowrap !important; /* evita que se corte en 2 líneas */
 }
