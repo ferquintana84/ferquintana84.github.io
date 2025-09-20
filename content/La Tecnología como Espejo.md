@@ -1,3 +1,10 @@
+---
+title: "La Tecnología como Espejo"
+description:
+draft: false
+tags:
+  -
+---
 La tecnología no es neutral.
 Es un reflejo de nuestras ambiciones, de nuestros miedos y de los valores que ponemos en sus cimientos. La IA puede ampliar nuestra creatividad o sofocarla, acercarnos unos a otros o vigilarnos, hacernos más humanos o reducirnos a métricas.
 

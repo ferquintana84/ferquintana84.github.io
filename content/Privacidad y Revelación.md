@@ -1,3 +1,10 @@
+---
+title: "Privacidad y Revelación"
+description:
+draft: false
+tags:
+  -
+---
 Revelarse al mundo no es exponerse por completo.
 Es elegir qué mostrar y qué guardar, con qué propósito y a quién. Eric Hughes lo dijo en 1993: “La privacidad es el poder de revelarse al mundo… de forma selectiva.”
 

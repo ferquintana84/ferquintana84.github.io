@@ -1,5 +1,5 @@
 ---
-title: Semillas Compartidas
+title: "Semillas Compartidas"
 description:
 draft: false
 tags:

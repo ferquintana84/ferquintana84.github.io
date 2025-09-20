@@ -1,3 +1,10 @@
+---
+title: "La Filosofía que Pregunta"
+description:
+draft: false
+tags:
+  -
+---
 La filosofía no es un lujo académico ni un adorno intelectual.
 Es una brújula. Es un martillo que incomoda certezas. Pregunta por qué hacemos lo que hacemos, hacia dónde vamos y qué dejamos atrás cuando corremos sin pensar.
 

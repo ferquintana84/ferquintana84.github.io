@@ -1,3 +1,10 @@
+---
+title: "Máscara Profesional"
+description:
+draft: false
+tags:
+  -
+---
 Todos aprendimos a usar máscaras.  
 
 La profesional fue la mía más visible, pero no la única. Al principio parecía protección: un modo de encajar, de sobrevivir en un mundo que pide eficiencia y resultados. Con el tiempo se volvió pesada. Sonreía cuando quería callar, asentía cuando quería gritar. Lo que fue disfraz para avanzar terminó siendo prisión: drenaba mi voz, mi energía, mi verdad.
