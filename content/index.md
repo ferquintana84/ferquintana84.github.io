@@ -21,7 +21,6 @@ En este marco también me interesa explorar cómo usamos la tecnología y qué c
 Te regalo mi jardín digital, donde las ideas brotan como semillas y, a veces, florecen en silencio. Donde lo que crece no se mide: solo se riega. Donde tecnología, filosofía y vida se entrelazan en un diálogo que vos podés recorrer a tu ritmo: leer, reflexionar, cuestionar, incluso plantar tus propias semillas. Es mi forma de resistir la prisa, la certeza vacía y la productividad sin alma. Sobre esta filosofía del jardín escribí con más detalle en [[No es un Blog, es un Jardín. Sembrar Ideas en la Era del Fragmento]].
 
 Mi nombre es **Fernando Emmanuel Quintana Agüero**.
-
 No soy académico ni geek de laboratorio.
 
 Me reconozco como integrador: lidero equipos, hablo el lenguaje de los datos y los algoritmos, pero busco ir más allá, hacia [[Ni Optimismo ni Pesimismo en la IA, Sí Esperanza|una IA orientada a la esperanza]]. Porque creo que la tecnología, guiada por el propósito, puede transformar vidas. Mi formación en ingeniería y economía se forjó en la experiencia, no solo en el diploma. Hoy, ese recorrido se encuentra con la filosofía que estudio: no como adorno, sino como necesidad. Y junto a mi hijo Fran, que me enseña a mirar el mundo con ojos nuevos, construyo una vida más sustentable, literal y simbólicamente.
